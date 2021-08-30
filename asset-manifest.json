@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RakibsPortfolio/static/css/main.45d565f2.chunk.css",
+    "main.js": "/RakibsPortfolio/static/js/main.9344d230.chunk.js",
+    "main.js.map": "/RakibsPortfolio/static/js/main.9344d230.chunk.js.map",
+    "runtime-main.js": "/RakibsPortfolio/static/js/runtime-main.02fafe15.js",
+    "runtime-main.js.map": "/RakibsPortfolio/static/js/runtime-main.02fafe15.js.map",
+    "static/css/2.0975cee1.chunk.css": "/RakibsPortfolio/static/css/2.0975cee1.chunk.css",
+    "static/js/2.fd84ba9f.chunk.js": "/RakibsPortfolio/static/js/2.fd84ba9f.chunk.js",
+    "static/js/2.fd84ba9f.chunk.js.map": "/RakibsPortfolio/static/js/2.fd84ba9f.chunk.js.map",
+    "static/js/3.62a95fe4.chunk.js": "/RakibsPortfolio/static/js/3.62a95fe4.chunk.js",
+    "static/js/3.62a95fe4.chunk.js.map": "/RakibsPortfolio/static/js/3.62a95fe4.chunk.js.map",
+    "index.html": "/RakibsPortfolio/index.html",
+    "static/css/2.0975cee1.chunk.css.map": "/RakibsPortfolio/static/css/2.0975cee1.chunk.css.map",
+    "static/css/main.45d565f2.chunk.css.map": "/RakibsPortfolio/static/css/main.45d565f2.chunk.css.map",
+    "static/js/2.fd84ba9f.chunk.js.LICENSE.txt": "/RakibsPortfolio/static/js/2.fd84ba9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02fafe15.js",
+    "static/css/2.0975cee1.chunk.css",
+    "static/js/2.fd84ba9f.chunk.js",
+    "static/css/main.45d565f2.chunk.css",
+    "static/js/main.9344d230.chunk.js"
+  ]
+}
